@@ -1,4 +1,4 @@
-# Instruction d'utilisateur
+# Instruction d'utilisation
 
 ## Documentation
 
